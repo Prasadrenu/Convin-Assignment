@@ -37,6 +37,10 @@ This Django-based project manages user information and tracks expenses. It inclu
 
   pip install -r requirements.txt
 
+# Databse handling
+
+   Here database used is MysqlWorkbench so change the database configurations in the project settings.py file according to your database configurations
+
 6.Apply Migrations
 
   python manage.py makemigrations or python3 manage.py makemigrations 
