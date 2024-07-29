@@ -12,6 +12,7 @@ This Django-based project manages user information and tracks expenses. It inclu
 
 - Python 3.x
 - Django 4.x
+- mysqlclient
 - "openpyxl" library for handling Excel files
 
 ### Installation
@@ -20,7 +21,7 @@ This Django-based project manages user information and tracks expenses. It inclu
 
    
    git clone https://github.com/Prasadrenu/Convin Assignment.git
-   cd daily_expenses or  Download zip files from the repository
+   or  Download zip files from the repository
 
 3.Create and Activate a Virtual Environment
 
